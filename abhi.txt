@@ -1,0 +1,8 @@
+i am abhinandan bubnale. i did my engineering from shivaji university kolhapur
+after that i got chance to work at tcs as a etl tester. i am having 3 years of experience
+during this 3 years i have involved in ETL testing,database testing ,manual testing and along 
+this experience i have intract with telecom domain project
+my roles and resposibility are understanding requirement,understand & review source and target 
+mapping,understand the logic flow of the mapping sheet,preparing test case scenario, test case 
+design,test case execution,structure vaildation,count validation,dupicate record validation, data
+validation ,verify data transfomation and data completeness .this all about me  
